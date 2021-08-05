@@ -3,6 +3,7 @@
 
 Current project:
 > GIF maker
+
 Future project:
 > GIF splitter
 __________________________________________________________
